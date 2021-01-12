@@ -1,0 +1,22 @@
+{
+  "summary": {
+    "title": "Onlineshop Bedrohungsanalyse",
+    "owner": "Julian Petrich",
+    "description": "Bedrohungsanalyse"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "Bedrohungsanalyse"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "Bedrohungsanalyse",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Tilman Dewes"
+  }
+}
